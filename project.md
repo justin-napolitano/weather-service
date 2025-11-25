@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/weather-service
 generatedAt: '2025-11-24T21:36:49.402Z'
 source: github-auto
 summary: >-
-  Explore how to create a simple weather service using FastAPI, including
-  endpoints for fetching and sending weather data.
+  Explore how to create a simple weather service using FastAPI, including endpoints for fetching and
+  sending weather data.
 tags:
   - fastapi
   - json
@@ -21,8 +21,8 @@ seoSecondaryKeywords:
   - health check API
   - notifier integration
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -35,4 +35,5 @@ FastAPI skill:
 - GET /run?city=Orlando → JSON one-line weather
 - GET /push → sends morning weather via notifier-gateway
 - GET /healthz → health check
+
 
